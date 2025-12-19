@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&lines=Competitive+Programmer;Full+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast;Curious+Learner" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" />
+</div>
+
+
+
+
 ### 🛠 About Me
 
 - 🌱 Currently exploring **Backend Development, AI & ML Technologies**  
