@@ -140,18 +140,23 @@ career_goal: Software Engineer at Top Tech Companies
 
 ## 💼 Experience & Internships
 
+- **SDE Mentee – DJS InfoMatrix**  
+  - Selected as an **SDE Mentee** under the DJS InfoMatrix technical community  
+  - Learning practical software development through mentor-led sessions  
+
+
 - **Open Source Contributor – GirlScript Summer of Code (GSSoC’25)**  
-  - Contributed to multiple open-source repositories
-  - Fixed bugs and implemented new features
+  - Contributed to multiple open-source repositories  
+  - Fixed bugs and implemented new features  
   - Used **Git & GitHub** for pull requests and code reviews
-  - Collaborated with mentors and developers in a team environment
 
 - **Doubt Solver Lecturer (Teaching Assistant) – Unacademy**  
-  - Resolved academic doubts related to **DSA and programming**
-  - Explained complex concepts in a structured and simple way
-  - Helped students improve problem-solving skills
-  - 
- 
+  - Resolved academic doubts related to **DSA and programming**  
+  - Explained complex concepts in a structured and simple way  
+  - Helped students improve problem-solving skills  
+
+---
+
 ## 🎓 Education
 
 | Degree | Institute | Score |
