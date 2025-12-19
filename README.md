@@ -6,8 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&lines=Competitive+Programmer;Full+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast;Curious+Learner" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" />
+</div> -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </div>
 
 
@@ -169,8 +172,8 @@ career_goal: Software Engineer at Top Tech Companies
 | Degree | Institute | Score |
 |------|---------|------|
 | B.Tech CSE (AI & DS) | Dwarkadas J. Sanghvi College of Engineering , Mumbai | CGPA 9.60 |
-| HSC XII | Sudarshan Junior College of Commerce and Science | Distinction |
-| SSC X | St Peter’s High School | 91.2% |
+| HSC XII | Sudarshan Junior College of Commerce and Science , Mumbai | Distinction |
+| SSC X | St Peter’s High School , Mumbai | 91.2% |
 
 ---
 
@@ -183,6 +186,7 @@ career_goal: Software Engineer at Top Tech Companies
 - CodeChef 2⭐
 - 500+ DSA Problems Solved
 
+---
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -237,6 +241,11 @@ career_goal: Software Engineer at Top Tech Companies
 ---
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+
+<div align="center">
 
 💡 *“Consistency beats talent when talent doesn’t work consistently.”*
 
@@ -263,8 +272,7 @@ Whether it’s **code**, **community**, or **collaboration**, I’m always excit
 
 ⭐ *If you find my work interesting, don’t forget to star some repositories!*
 
----
-
 ✨ *“In a world full of possibilities, be the one who turns them into reality.”*
+---
 
 </div>
