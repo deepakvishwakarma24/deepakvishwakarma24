@@ -188,19 +188,8 @@ career_goal: Software Engineer at Top Tech Companies
 ---
 ## 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/deepakvishwakarma24">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&theme=dracula&hide_border=false" />
-  </a>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=dracula&hide_border=false" />
-</p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakvishwakarma24&theme=dracula&hide_border=false" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&theme=dracula&cache_seconds=86400" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=dracula&cache_seconds=86400" /> </p> <p align="center"> <img width="60%" src="https://streak-stats.demolab.com/?user=deepakvishwakarma24&theme=dracula" /> </p>
 
 ## 🤝 Connect with Me
 
