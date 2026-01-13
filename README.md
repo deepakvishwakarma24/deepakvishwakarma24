@@ -169,32 +169,35 @@ career_goal: Software Engineer at Top Tech Companies
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </div>
 
+## 🌱 Featured Projects
 
+- ### **GraphNav – Pathfinding Visualizer** | [Live Demo](https://graphnav-pathfinder-visualizer.vercel.app/) | [GitHub](https://github.com/deepakvishwakarma24/GraphNav-Pathfinding-Visualizer)
+  **JavaScript · HTML · CSS · Data Structures & Algorithms**  
+  Interactive pathfinding visualizer to explore and compare classical graph traversal and shortest-path algorithms on a 2D grid.
+  - Implemented **BFS, DFS, Dijkstra, A\*, and Bi-Directional BFS**
+  - Real-time animations with obstacles and weighted grids
+  - Visual comparison of algorithm behavior and performance
+  - Designed for learning, teaching, and technical demonstrations
 
-## 🌱 Featured Projects 🚀
+---
 
-- ### **Sorting Algorithm Visualizer** 🔢  
-  **JavaScript | HTML | CSS**  
+- ### **Sorting Algorithm Visualizer** | [Live Demo](https://deepakvishwakarma24.github.io/Sorting-Visualizer/) | [GitHub](https://github.com/deepakvishwakarma24/Sorting-Visualizer)
+  **JavaScript · HTML · CSS · Data Structures & Algorithms**  
   Interactive web application to visualize sorting algorithms step by step.
   - Implemented **Quick Sort** and **Insertion Sort**
-  - Real-time animations for better understanding
-  - Displays **time and space complexity**
-  - Used as a learning and teaching tool for juniors
+  - Real-time animations for clearer algorithm understanding
+  - Visual representation of **time and space complexity**
+  - Used as a learning and teaching aid for DSA fundamentals
 
-- ### **Book Recommendation System** 📚  
-  **Python | Flask | Pandas | NumPy | Scikit-learn**  
-  Machine-learning-based system for personalized book recommendations.
+---
+
+- ### **Book Recommendation System** | [Live Demo](https://deepakvishwakarma24.github.io/book-recommender-system/) | [GitHub](https://github.com/deepakvishwakarma24/book-recommender-system)
+  **Python · Flask · Pandas · NumPy · Scikit-learn**  
+  Machine learning–based system for personalized book recommendations.
   - Implemented **Collaborative Filtering**
   - Used **Cosine Similarity** for accurate recommendations
   - Backend developed using **Flask**
-  - Dataset sourced from **Kaggle**
-
-- ### **Competitive Programming & DSA Practice** ⚔️  
-  **C++ | Java**  
-  Consistent problem-solving across multiple platforms.
-  - Solved **500+ DSA problems**
-  - Active on **LeetCode, Codeforces, CodeChef, AtCoder**
-  - Strong focus on arrays, recursion, DP, graphs, and trees
+  - Dataset sourced and processed from **Kaggle**
 
 ---
 
@@ -304,7 +307,7 @@ career_goal: Software Engineer at Top Tech Companies
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DeepakV45449552)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@deepakvishwakarma99)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepakvishwakarma147/)
-
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/R9bSuQ3wjR)
 </div>
 ---
 
