@@ -162,7 +162,7 @@ career_goal: Software Engineer at Top Tech Companies
 
 </div>
 
-> 📌 Strong foundation in core Computer Science subjects with practical implementation experience.
+> Completed core **Computer Science Coursework** covering **DSA, OS, DBMS, CN, and OOPs**.
 
 </div>
 
