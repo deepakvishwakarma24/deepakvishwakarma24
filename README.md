@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&lines=Competitive+Programmer;Full+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast;Curious+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&lines=Competitive+Programmer;Full+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast;Curious+Learner" /> 
 </div>
 
 <!-- <div align="center">
@@ -248,30 +248,45 @@ Focus: **DSA · Problem Solving · Rating Growth**
 - Achieved **5★ in C++ on HackerRank**, demonstrating strong command over  **DSA and core programming concepts**
 - Ranked **Top 100 (Institutional Rank)** at **Dwarkadas J. Sanghvi College of Engineering** on **GeeksforGeeks**
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img width="48%"
-     src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"
-     alt="Deepak GitHub Stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+  width="48%"
+  alt="Deepak GitHub Stats"
+/>
 
-<img width="48%"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400"
-     alt="Top Languages"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400"
+  width="48%"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img width="60%"
-     src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=dracula&hide_border=true"
-     alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=dracula&hide_border=true"
+  width="65%"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 ---
 
+### 👔 Professional
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-vishwakarma-6b2099324/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakvishwakarma24)
+[![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/deepak-sofdev)
+
+</div>
+
+
+---
 ### 🧠 Competitive Programming
 <div align="center">
 
@@ -280,6 +295,7 @@ Focus: **DSA · Problem Solving · Rating Growth**
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/deepak2965)
 [![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Deepak265)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/deepak_vishwakarma29)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/deepak2965)
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codolio.com/profile/deepak2965)
 
 </div>
@@ -288,12 +304,15 @@ Focus: **DSA · Problem Solving · Rating Growth**
 
 ### 🌐 Community & Social
 <div align="center">
-
+  
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://blogger4839.wordpress.com/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DeepakV45449552)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@deepakvishwakarma99)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepakvishwakarma147/)
 
 </div>
 ---
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
