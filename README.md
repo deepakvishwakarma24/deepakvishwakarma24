@@ -247,31 +247,28 @@ career_goal: Software Engineer at Top Tech Companies
 - Achieved **5★ in C++ on HackerRank**, demonstrating strong command over  **DSA and core programming concepts**
 - Ranked **Top 100 (Institutional Rank)** at **Dwarkadas J. Sanghvi College of Engineering** on **GeeksforGeeks**
 ---
-## 📈 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400"
+    width="48%"
+  />
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-  width="48%"
-  alt="Deepak GitHub Stats"
-/>
+<br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400"
-  width="48%"
-  alt="Top Languages"
-/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=dracula&hide_border=true"
+    width="65%"
+  />
+</p>
 
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=dracula&hide_border=true"
-  width="65%"
-  alt="GitHub Streak"
-/>
-
-</div>
 
 ---
 ### 🤝 Let’s Connect
