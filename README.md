@@ -142,7 +142,7 @@ Focus: **DSA · Problem Solving · Rating Growth**
 ### 🤖 Machine Learning & Data Science
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 
 ---
 
@@ -152,11 +152,30 @@ Focus: **DSA · Problem Solving · Rating Growth**
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
+
+---
+
+## 📚 Relevant Coursework
+
+<div align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge&logo=leetcode&logoColor=white)
+![DBMS](https://img.shields.io/badge/Database%20Management%20Systems-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OS](https://img.shields.io/badge/Operating%20Systems-6A5ACD?style=for-the-badge&logo=linux&logoColor=white)
+![CN](https://img.shields.io/badge/Computer%20Networks-008080?style=for-the-badge&logo=cisco&logoColor=white)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+> 📌 Strong foundation in core Computer Science subjects with practical implementation experience.
+
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </div>
+
+
 
 ## 🌱 Featured Projects 🚀
 
