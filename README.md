@@ -56,6 +56,46 @@ career_goal: Software Engineer at Top Tech Companies
 </div>
 
 ---
+## 📈 Coding Profiles
+
+<div align="center">
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Deepak_6k_dj">
+    <img height="316"
+         src="https://codeforces-readme-stats.vercel.app/api/card?username=Deepak_6k_dj&theme=github_dark&force_username=true&border_color=404040"
+         alt="Deepak Codeforces Stats"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/deepak2965/">
+    <img height="316"
+         src="https://leetcard.jacoblin.cool/deepak2965?theme=dark&font=Ubuntu&cache=14400&ext=contest"
+         alt="Deepak LeetCode Stats"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🟤 CodeChef Profile
+
+<a href="https://www.codechef.com/users/deepak2965">
+  <img src="https://img.shields.io/badge/CodeChef-deepak2965-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+⭐ **Competitive Programming on CodeChef**  
+Profile: **deepak2965**   
+Focus: **DSA · Problem Solving · Rating Growth**
+
+🎯 *Actively improving CodeChef rating alongside Codeforces & LeetCode*
+
+</div>
+
+
+---
 
 ## 🎯 Current Focus
 
@@ -183,25 +223,29 @@ career_goal: Software Engineer at Top Tech Companies
 - LeetCode (1550+)
 - CodeChef 2⭐
 - 500+ DSA Problems Solved
-
 ---
 ## 📈 GitHub Stats
 
-
-<p align="center"> <a href="https://github.com/deepakvishwakarma24"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&theme=dracula&hide_border=false" /> </a> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=dracula&hide_border=false" /> </p> <p align="center"> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakvishwakarma24&theme=dracula&hide_border=false" /> </p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 🤝 Connect with Me
-
-### 👔 Professional
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-vishwakarma-6b2099324)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakvishwakarma24)
-[![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/deepak-sofdev)
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://blogger4839.wordpress.com/)
+<img width="48%"
+     src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"
+     alt="Deepak GitHub Stats"/>
+
+<img width="48%"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400"
+     alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="60%"
+     src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=dracula&hide_border=true"
+     alt="GitHub Streak"/>
 
 </div>
 
 ---
+
 
 ### 🧠 Competitive Programming
 <div align="center">
