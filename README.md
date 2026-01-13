@@ -274,7 +274,7 @@ career_goal: Software Engineer at Top Tech Companies
 </div>
 
 ---
-
+### 🤝 Let’s Connect
 ### 👔 Professional
 <div align="center">
 
