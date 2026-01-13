@@ -85,9 +85,6 @@ career_goal: Software Engineer at Top Tech Companies
 
 <br/><br/>
 
-⭐ **Competitive Programming on CodeChef**  
-Profile: **deepak2965**   
-Focus: **DSA · Problem Solving · Rating Growth**
 
 🎯 *Actively improving CodeChef rating alongside Codeforces & LeetCode*
 
@@ -122,6 +119,7 @@ Focus: **DSA · Problem Solving · Rating Growth**
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -150,7 +148,6 @@ Focus: **DSA · Problem Solving · Rating Growth**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakvishwakarma24)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-
 
 ---
 
