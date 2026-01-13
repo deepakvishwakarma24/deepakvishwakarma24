@@ -93,9 +93,10 @@ career_goal: Software Engineer at Top Tech Companies
 
 ## 🎯 Current Focus
 
-- 📌 Data Structures & Algorithms (C++ / Java)
-- 📌 MERN Stack Development
-- 📌 Machine Learning with Python
+- **Data Structures & Algorithms (C++)** – Core DSA concepts and algorithmic problem-solving  
+- **Competitive Programming** – Regular contests and structured practice on CF, CC, and LC  
+- **MERN Stack Development** – Building scalable full-stack projects  
+- **Academics** – Trying to Maintain a strong CGPA alongside technical growth
 
 
 ---
