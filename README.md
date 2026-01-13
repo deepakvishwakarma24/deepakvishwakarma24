@@ -84,9 +84,7 @@ career_goal: Software Engineer at Top Tech Companies
 </a>
 
 <br/><br/>
-
-
-🎯 *Actively improving CodeChef rating alongside Codeforces & LeetCode*
+   **Competitive programming** practice across **Codeforces, CodeChef, and LeetCode etc.**.
 
 </div>
 
