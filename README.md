@@ -21,7 +21,7 @@
 - 🌱 Currently exploring **Backend Development, AI & ML Technologies**  
 - 👯 Excited to collaborate on **Front-End & Full-Stack Projects**  
 - 💡 Passionate about solving real-life problems through technology  
-- 🎮 Fun fact: I love exploring **Web Developmentand AIML Tools**  
+- 🎮 Fun fact: I love exploring **Web Development and AIML Tools**  
 - 📫 How to reach me: **deepakvishwakarma2965@gmail.com**
 
 ---
@@ -79,7 +79,6 @@ career_goal: Software Engineer at Top Tech Companies
 <div align="center">
 
 ### 🟤 CodeChef Profile
-
 <a href="https://www.codechef.com/users/deepak2965">
   <img src="https://img.shields.io/badge/CodeChef-deepak2965-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
@@ -233,16 +232,23 @@ Focus: **DSA · Problem Solving · Rating Growth**
 | SSC X | St Peter’s High School , Mumbai | 91.2% |
 
 ---
-
 ## 🏆 Achievements
 
-- JEE Advanced 2024 – AIR 9124
-- MHT-CET 2024 – 99.04 Percentile
-- Codeforces (1050+)
-- LeetCode (1550+)
-- CodeChef 2⭐
-- 500+ DSA Problems Solved
+- **JEE Advanced 2024** – AIR **9124** (Top **4%** among **2,00,000+** candidates)  
+- **JEE Main 2024** – **95.73 Percentile** (Top **5%** among **15,00,000+** candidates)  
+- **MHT-CET 2024** – **99.04 Percentile** (Rank **2901**, Top **4%** among **6,75,000+** candidates)
+
+- **Competitive Programming**
+  - Codeforces: **Newbie** (Max Rating **1050+**)  
+  - LeetCode: **Top 40%** (Max Rating **1550+**)  
+  - CodeChef: **2★** (Max Rating **1500+**)  
+
+- **Global Rank 1173** among **24,000+** participants in **CodeChef Starters 196**
+- Solved **500+ Data Structures & Algorithms** problems across **LeetCode, Codeforces, CodeChef, GeeksforGeeks, and HackerRank**
+- Achieved **5★ in C++ on HackerRank**, demonstrating strong command over  **DSA and core programming concepts**
+- Ranked **Top 100 (Institutional Rank)** at **Dwarkadas J. Sanghvi College of Engineering** on **GeeksforGeeks**
 ---
+
 ## 📈 GitHub Stats
 
 <div align="center">
