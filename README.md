@@ -248,9 +248,24 @@ career_goal: Software Engineer at Top Tech Companies
 - Ranked **Top 100 (Institutional Rank)** at **Dwarkadas J. Sanghvi College of Engineering** on **GeeksforGeeks**
 ---
 
-## 📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" alt="Deepak GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" alt="Top Languages" /> <br/><br/> <img src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=dracula&hide_border=true" width="65%" alt="GitHub Streak" /> </div>
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<!-- Row 1: Main Signals -->
+<p align="center">
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+       alt="GitHub Stats" />
+  <img width="48%"
+       src="https://streak-stats.demolab.com/?user=deepakvishwakarma24&theme=github_dark&hide_border=true"
+       alt="GitHub Streak" />
+</p>
+
+<!-- Row 2: Supporting Signal -->
+<p align="center">
+  <img width="42%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+       alt="Top Languages" />
+</p>
 
 ---
 ### 🤝 Let’s Connect
