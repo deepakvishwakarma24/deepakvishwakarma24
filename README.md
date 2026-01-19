@@ -247,15 +247,18 @@ career_goal: Software Engineer at Top Tech Companies
 - Achieved **5★ in C++ on HackerRank**, demonstrating strong command over  **DSA and core programming concepts**
 - Ranked **Top 100 (Institutional Rank)** at **Dwarkadas J. Sanghvi College of Engineering** on **GeeksforGeeks**
 ---
+<div >
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+## 📊 GitHub Stats 📊
+
+</div>
 
 <!-- Row 1: Main Signals -->
 <p align="center">
-  <img width="48%"
+  <img width="49%"
        src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
        alt="GitHub Stats" />
-  <img width="48%"
+  <img width="49%"
        src="https://streak-stats.demolab.com/?user=deepakvishwakarma24&theme=github_dark&hide_border=true"
        alt="GitHub Streak" />
 </p>
@@ -263,8 +266,8 @@ career_goal: Software Engineer at Top Tech Companies
 <!-- Row 2: Supporting Signal -->
 <p align="center">
   <img width="42%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-       alt="Top Languages" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=github_dark&hide_border=true&langs_count=5&hide=css,shell,batchfile,powershell,procfile,sql,markdown"
+       alt="Known Languages" />
 </p>
 
 ---
