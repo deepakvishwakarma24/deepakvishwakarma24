@@ -216,7 +216,7 @@ career_goal: Software Engineer at Top Tech Companies
   - Used **Git & GitHub** for pull requests and code reviews
 
 - **Doubt Solver Lecturer (Teaching Assistant) – Unacademy**  | Jun 2024 - Aug 2024 
-  - Resolved academic doubts related to **DSA and programming**  
+  - Resolved academic doubts related to **Physic and Mathematics** to **11th and JEE Aspirants**
   - Explained complex concepts in a structured and simple way  
   - Helped students improve problem-solving skills  
 
