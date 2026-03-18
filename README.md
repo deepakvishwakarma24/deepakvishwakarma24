@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=0:1d4ed8,100:7c3aed&height=200&section=header&text=Deepak%20Vishwakarma&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:7c3aed&height=200&section=header&text=Deepak%20Vishwakarma&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -252,23 +252,21 @@ career_goal: Software Engineer at Top Tech Companies
 ## 📊 GitHub Stats 📊
 
 </div>
-
-<!-- Row 1: Main Signals -->
+<!-- Row 1 -->
 <p align="center">
   <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-       alt="GitHub Stats" />
+    src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    
   <img width="49%"
-       src="https://streak-stats.demolab.com/?user=deepakvishwakarma24&theme=github_dark&hide_border=true"
-       alt="GitHub Streak" />
+    src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 </p>
 
-<!-- Row 2: Supporting Signal -->
+<!-- Row 2 -->
 <p align="center">
   <img width="42%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=github_dark&hide_border=true&langs_count=5&hide=css,shell,batchfile,powershell,procfile,sql,markdown"
-       alt="Known Languages" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
 
 ---
 ### 🤝 Let’s Connect
