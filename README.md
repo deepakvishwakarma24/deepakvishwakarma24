@@ -252,21 +252,32 @@ career_goal: Software Engineer at Top Tech Companies
 ## 📊 GitHub Stats 📊
 
 </div>
-<!-- Row 1 -->
+
+<!-- Row 1: Stats + Streak -->
 <p align="center">
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    
-  <img width="49%"
-    src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img width="48%"
+    src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=github_dark&hide_border=true"/>
 </p>
 
-<!-- Row 2 -->
+<!-- Row 2: Languages -->
 <p align="center">
-  <img width="42%"
+  <img width="40%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvishwakarma24&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
+<!-- Row 3: Contribution Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-299-brightgreen?style=for-the-badge"/>
+</p>
+
+<!-- Row 5: Profile Summary -->
+<p align="center">
+  <img width="90%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakvishwakarma24&theme=github_dark"/>
+</p>
 
 ---
 ### 🤝 Let’s Connect
