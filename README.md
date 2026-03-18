@@ -253,11 +253,10 @@ career_goal: Software Engineer at Top Tech Companies
 
 </div>
 
-<!-- Row 1: Stats + Streak -->
 <p align="center">
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=deepakvishwakarma24&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    
   <img width="48%"
     src="https://streak-stats.demolab.com?user=deepakvishwakarma24&theme=github_dark&hide_border=true"/>
 </p>
