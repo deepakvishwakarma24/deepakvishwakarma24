@@ -249,6 +249,16 @@ career_goal: Software Engineer at Top Tech Companies
 ---
 <div >
 
+
+
+## 🏆 Achievements 🏆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepakvishwakarma24&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+<br>
+
 ## 📊 GitHub Stats 📊
 
 </div>
