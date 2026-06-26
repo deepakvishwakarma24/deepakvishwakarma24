@@ -18,12 +18,12 @@
 
 ### 🛠 About Me
 
-- 🌱 Currently exploring **Backend Development, AI & ML Technologies**  
-- 👯 Excited to collaborate on **Front-End & Full-Stack Projects**  
-- 💡 Passionate about solving real-life problems through technology  
-- 🎮 Fun fact: I love exploring **Web Development and AIML Tools**  
-- 📫 How to reach me: **deepakvishwakarma2965@gmail.com**
-
+- 🌱 Currently exploring **Backend Development, AI & ML Technologies**
+- 👯 Open to collaborating on **Software Engineering, Front-End & Full-Stack Projects**
+- 💡 Passionate about building impactful products and solving real-world problems
+- 🎯 Interested in **Software Engineering, Competitive Programming, AI & Open Source**
+- 📄 **Resume:** [View Resume](https://bit.ly/deepak-vishwakarma-resume)
+- 📫 **Email:** deepakvishwakarma2965@gmail.com
 ---
 ## 👨‍💻 Professional Overview
 
@@ -125,6 +125,7 @@ career_goal: Software Engineer at Top Tech Companies
 ### ⚙️ Backend Development
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
 
 ---
 
@@ -139,14 +140,17 @@ career_goal: Software Engineer at Top Tech Companies
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 
 ---
 
-### 🔧 Tools & Platforms
+### 🔧Developer Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakvishwakarma24)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![CodeMirror](https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=codemirror&logoColor=white)](https://codemirror.net/)
+[![Judge0 API](https://img.shields.io/badge/Judge0_API-5C2D91?style=for-the-badge&logo=codeforces&logoColor=white)](https://judge0.com/)
 
 ---
 
@@ -172,40 +176,74 @@ career_goal: Software Engineer at Top Tech Companies
 
 ## 🌱 Featured Projects
 
-- ### **GraphNav – Pathfinding Visualizer** | [Live Demo](https://graphnav-pathfinder-visualizer.vercel.app/) | [GitHub](https://github.com/deepakvishwakarma24/GraphNav-Pathfinding-Visualizer)
-  **JavaScript · HTML · CSS · Data Structures & Algorithms**  
-  Interactive pathfinding visualizer to explore and compare classical graph traversal and shortest-path algorithms on a 2D grid.
-  - Implemented **BFS, DFS, Dijkstra, A\*, and Bi-Directional BFS**
-  - Real-time animations with obstacles and weighted grids
-  - Visual comparison of algorithm behavior and performance
-  - Designed for learning, teaching, and technical demonstrations
+### **GraphNav – Pathfinding Visualizer** | [Live Demo](https://graphnav-pathfinder-visualizer.vercel.app/) | [GitHub](https://github.com/deepakvishwakarma24/GraphNav-Pathfinding-Visualizer)
+
+**JavaScript · HTML · CSS · Data Structures & Algorithms**
+
+Interactive visualization platform for exploring graph traversal and shortest-path algorithms on a dynamic 2D grid.
+
+- Implemented **6+ graph algorithms** including **BFS, DFS, Dijkstra, A\*, Bi-Directional BFS, and Greedy Best-First Search**
+- Built a **step-by-step animation engine** with visited-node tracing, shortest-path reconstruction, and speed controls
+- Supports **drag-and-drop obstacles, weighted grids, movable start/end nodes, and random maze generation**
+- Designed as an educational tool for learning graph algorithms through interactive visualization
 
 ---
 
-- ### **Sorting Algorithm Visualizer** | [Live Demo](https://deepakvishwakarma24.github.io/Sorting-Visualizer/) | [GitHub](https://github.com/deepakvishwakarma24/Sorting-Visualizer)
-  **JavaScript · HTML · CSS · Data Structures & Algorithms**  
-  Interactive web application to visualize sorting algorithms step by step.
-  - Implemented **Quick Sort** and **Insertion Sort**
-  - Real-time animations for clearer algorithm understanding
-  - Visual representation of **time and space complexity**
-  - Used as a learning and teaching aid for DSA fundamentals
+### **Codeforces Explorer – Analytics Platform** | [Live Demo](https://codeforces-explorer.vercel.app/). | [GitHub](https://github.com/deepakvishwakarma24/codeforces-explorer)
+
+**React.js · Tailwind CSS · Vite · Axios · Recharts**
+
+Advanced analytics dashboard for exploring Codeforces profiles, contests, submissions, and problem-solving statistics.
+
+- Integrated **5+ official Codeforces APIs** to fetch real-time user profiles, contests, submissions, and 8,000+ problems
+- Developed an advanced **problem explorer** with multi-parameter filtering and fast search
+- Built **side-by-side user comparison**, rating history charts, contest analytics, and submission insights
+- Optimized frontend performance using **Vite**, reusable React components, and responsive UI
 
 ---
 
-- ### **Book Recommendation System** | [Live Demo](https://deepakvishwakarma24.github.io/book-recommender-system/) | [GitHub](https://github.com/deepakvishwakarma24/book-recommender-system)
-  **Python · Flask · Pandas · NumPy · Scikit-learn**  
-  Machine learning–based system for personalized book recommendations.
-  - Implemented **Collaborative Filtering**
-  - Used **Cosine Similarity** for accurate recommendations
-  - Backend developed using **Flask**
-  - Dataset sourced and processed from **Kaggle**
+### **SudokuX – Interactive Sudoku Solver** | [Live Demo](https://deepakvishwakarma24.github.io/SudokuX/) | [GitHub](https://github.com/deepakvishwakarma24/SudokuX)
 
+**JavaScript · HTML · CSS · Backtracking Algorithm**
+
+Interactive Sudoku Solver powered by the Recursive Backtracking Algorithm with real-time validation and a responsive modern interface.
+
+- Solves **9×9 Sudoku puzzles** using optimized recursive backtracking and constraint checking
+- Implements **real-time input validation** enforcing row, column, and 3×3 subgrid constraints across **81 editable cells**
+- Features a responsive **dark-themed UI**, instant solve/reset controls, and smooth user interactions
+- Built as an educational demonstration of recursion, backtracking, and constraint satisfaction problems
+
+---
+
+### **Sorting Algorithm Visualizer** | [Live Demo](https://deepakvishwakarma24.github.io/Sorting-Visualizer/) | [GitHub](https://github.com/deepakvishwakarma24/Sorting-Visualizer)
+
+**JavaScript · HTML · CSS · Data Structures & Algorithms**
+
+Interactive web application to visualize sorting algorithms step-by-step.
+
+- Implemented **Quick Sort** and **Insertion Sort**
+- Real-time animations for understanding sorting mechanics
+- Displays algorithm execution with **time and space complexity**
+- Built as a learning aid for mastering sorting algorithms
+
+---
+
+### **Book Recommendation System** | [Live Demo](https://deepakvishwakarma24.github.io/book-recommender-system/) | [GitHub](https://github.com/deepakvishwakarma24/book-recommender-system)
+
+**Python · Flask · Pandas · NumPy · Scikit-learn**
+
+Machine Learning–based recommendation engine for personalized book suggestions.
+
+- Implemented **Collaborative Filtering** for personalized recommendations
+- Used **Cosine Similarity** to identify similar users and books
+- Developed backend using **Flask**
+- Processed and trained on a **Kaggle dataset**
 ---
 
 
 ## 💼 Experience & Internships
 
-- **SDE Mentee – DJS InfoMatrix**  | Aug 2025 – Present
+- **SDE Mentee – DJS InfoMatrix**  | Aug 2025 – May 2026
   - Selected as an **SDE Mentee** under the DJS InfoMatrix technical community  
   - Learning practical software development through mentor-led sessions  
 
@@ -226,7 +264,7 @@ career_goal: Software Engineer at Top Tech Companies
 
 | Degree | Institute | Score |
 |------|---------|------|
-| B.Tech CSE (AI & DS) | Dwarkadas J. Sanghvi College of Engineering , Mumbai | CGPA 9.60 |
+| B.Tech CSE (AI & DS) | Dwarkadas J. Sanghvi College of Engineering , Mumbai | CGPA 9.0 |
 | HSC XII | Sudarshan Junior College of Commerce and Science , Mumbai | Distinction |
 | SSC X | St Peter’s High School , Mumbai | 91.2% |
 
@@ -243,7 +281,7 @@ career_goal: Software Engineer at Top Tech Companies
   - CodeChef: **2★** (Max Rating **1500+**)  
 
 - **Global Rank 1173** among **24,000+** participants in **CodeChef Starters 196**
-- Solved **500+ Data Structures & Algorithms** problems across **LeetCode, Codeforces, CodeChef, GeeksforGeeks, and HackerRank**
+- Solved **1000+ Data Structures & Algorithms** problems across **LeetCode, Codeforces, CodeChef, GeeksforGeeks, and HackerRank**
 - Achieved **5★ in C++ on HackerRank**, demonstrating strong command over  **DSA and core programming concepts**
 - Ranked **Top 100 (Institutional Rank)** at **Dwarkadas J. Sanghvi College of Engineering** on **GeeksforGeeks**
 ---
