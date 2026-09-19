@@ -60,7 +60,7 @@ career_goal: Software Engineer at Top Tech Companies
 
 <div align="center">
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/Deepak_6k_dj">
+  <a href="https://codeforces.com/profile/deepak_2965">
     <img height="316"
          src="https://codeforces-readme-stats.vercel.app/api/card?username=Deepak_6k_dj&theme=github_dark&force_username=true&border_color=404040"
          alt="Deepak Codeforces Stats"/>
@@ -330,7 +330,7 @@ Machine Learning–based recommendation engine for personalized book suggestions
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deepak2965/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Deepak_6k_dj)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/profile/Deepak_6k_dj](https://codeforces.com/profile/deepak_2965))
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/deepak2965)
 [![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Deepak265)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/deepak_vishwakarma29)
