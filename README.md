@@ -62,7 +62,7 @@ career_goal: Software Engineer at Top Tech Companies
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/deepak_2965">
     <img height="316"
-         src="https://codeforces-readme-stats.vercel.app/api/card?username=Deepak_6k_dj&theme=github_dark&force_username=true&border_color=404040"
+         src="https://codeforces-readme-stats.vercel.app/api/card?username=deepak_2965&theme=github_dark&force_username=true&border_color=404040"
          alt="Deepak Codeforces Stats"/>
   </a>
 
