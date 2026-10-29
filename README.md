@@ -276,14 +276,14 @@ Machine Learning–based recommendation engine for personalized book suggestions
 - **MHT-CET 2024** – **99.04 Percentile** (Rank **2901**, Top **4%** among **6,75,000+** candidates)
 
 - **Competitive Programming**
-  - Codeforces: **Newbie** (Max Rating **1050+**)  
-  - LeetCode: **Top 40%** (Max Rating **1550+**)  
+  - Codeforces: **Pupil** (Max Rating **1323**)  
+  - LeetCode: **Top 30%** (Max Rating **1550+**)  
   - CodeChef: **2★** (Max Rating **1500+**)  
 
 - **Global Rank 1173** among **24,000+** participants in **CodeChef Starters 196**
-- Solved **1000+ Data Structures & Algorithms** problems across **LeetCode, Codeforces, CodeChef, GeeksforGeeks, and HackerRank**
+- Solved **1200+ Data Structures & Algorithms** problems across **LeetCode, Codeforces, CodeChef, GeeksforGeeks, and HackerRank**
 - Achieved **5★ in C++ on HackerRank**, demonstrating strong command over  **DSA and core programming concepts**
-- Ranked **Top 100 (Institutional Rank)** at **Dwarkadas J. Sanghvi College of Engineering** on **GeeksforGeeks**
+- Ranked **Top 40 (Institutional Rank)** at **Dwarkadas J. Sanghvi College of Engineering** on **GeeksforGeeks**
 ---
 <div >
 
