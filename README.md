@@ -22,7 +22,7 @@
 - 👯 Open to collaborating on **Software Engineering, Front-End & Full-Stack Projects**
 - 💡 Passionate about building impactful products and solving real-world problems
 - 🎯 Interested in **Software Engineering, Competitive Programming, AI & Open Source**
-- 📄 **Resume:** [View Resume](https://bit.ly/deepak-vishwakarma-resume)
+- 📄 **Resume:** [View Resume]()
 - 📫 **Email:** deepakvishwakarma2965@gmail.com
 ---
 ## 👨‍💻 Professional Overview
